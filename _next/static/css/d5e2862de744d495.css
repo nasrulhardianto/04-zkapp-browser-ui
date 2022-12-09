@@ -168,7 +168,7 @@ a {
 	margin-right: auto;
 	position: relative;	
 	width: 900px;
-	height: 600px;
+	height: 620px;
 	transform: scale(1);
 }
 
@@ -189,14 +189,14 @@ a {
 
 .Home_banner__WnS5R {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.a6508acc.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.6375bea0.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 0px;
-	height: 0px;
+	width: 550px;
+	height: 370px;
 	position: absolute;
 	left: 180px;
-	top: -200px;
+	top: -370px;
 }
 
 .Home_banner2__nEGJg {
@@ -213,26 +213,26 @@ a {
 
 .Home_connectBtn__q4_OB {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn1.cbf22e1a.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn1.00517b66.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 180px;
+	height: 125px;
 	position: absolute;
-	left: 380px;
-	top: 590px;
+	left: 1170px;
+	top: -200px;
 }
 
 .Home_connectBtn__q4_OB:hover {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn2.f4587791.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn2.e7f8ee9c.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 180px;
+	height: 125px;
 	position: absolute;
-	left: 380px;
-	top: 590px;
+	left: 1170px;
+	top: -200px;
 }
 
 .Home_connectBtn__q4_OB:active {
@@ -240,11 +240,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn3.3392c4ca.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 180px;
+	height: 125px;
 	position: absolute;
-	left: 380px;
-	top: 590px;
+	left: 1170px;
+	top: -200px;
 }
 
 .Home_loadingBtn__vAScy {
@@ -742,50 +742,50 @@ a {
 
 .Home_teleIcon__qLDZz {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/teleicon1.f641a4f9.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/teleicon1.815a027e.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 100px;
+	height: 100px;
 	position: absolute;
-	left: 200px;
-	top: 690px;
+	left: 160px;
+	top: 680px;
 }
 
 .Home_dcIcon__DDy4R {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/dcicon1.ded72cba.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/dcicon1.a45db9d3.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 100px;
+	height: 100px;
 	position: absolute;
-	left: 340px;
-	top: 690px;
+	left: 320px;
+	top: 680px;
 }
 
 .Home_fbIcon__HDaE7 {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/fbicon1.83bf8b8d.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/fbicon1.d9092f71.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 100px;
+	height: 100px;
 	position: absolute;
 	left: 480px;
-	top: 690px;
+	top: 680px;
 }
 
 .Home_gitIcon__L23x5 {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/giticon1.a340f233.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/giticon1.dfef4567.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 120px;
+	height: 120px;
 	position: absolute;
-	left: 630px;
-	top: 690px;
+	left: 620px;
+	top: 680px;
 }
 
 
